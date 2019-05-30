@@ -22,7 +22,7 @@ To view the .cloud folder, hit `command + shift + .` to view hidden folders
 I made it a bit easier for BlueJ users
 ### EASY WAY:
 Download the folder, drag the CONTENTS of the folder into /Applications/.cloud
-### MANUAL WAY
+### MANUAL WAY:
 - To get the code into BlueJ, click on "New Class", name it anything, then just paste the code over whatever is there by default.
 - Press Compile
 - Right click on the square
