@@ -4,10 +4,15 @@ Renames the DyKnow file and kills the process
 
 ## Install
 You need an application that can compile and run Java code (I use BlueJ, it's what the school equipped me with)
+
 Create a new project in your application
+
 Paste the Java code into application
+
 Compile
+
 Drag all of the contents into /Applications/.cloud
+
 Run from there
 
 ## Instructions for dummies
