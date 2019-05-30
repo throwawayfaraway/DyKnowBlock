@@ -1,6 +1,7 @@
 # DyKnow Blocker (for Mac)
 ## How it works
 Renames the DyKnow file and kills the process
+
 Can be toggled ON/OFF for your convenience
 
 ## Install
