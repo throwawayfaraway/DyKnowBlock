@@ -7,7 +7,7 @@ You need an application that can compile and run Java code (I use BlueJ, it's wh
 
 Create a new project in your application
 
-Paste the Java code into application
+Paste the GodButton.java Java code into application
 
 Compile
 
@@ -24,4 +24,5 @@ To view the .cloud folder, hit `command + shift + .` to view hidden folders
 - Right click on the square
 - Click on void main(String[] args)
 - Press OK
+
 
